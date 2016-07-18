@@ -10,7 +10,7 @@ If you are using XCode7 just go to Application folder, browse to the Xcode appli
 Add the following line to your project Podfile (we need to specify a commit, as container hierarchy is not released yet)
 
 ```
-pod 'Swinject', :git => 'https://github.com/Swinject/Swinject.git', :commit => '48a8504'
+pod 'Swinject'
 ```
 
 ### References ###
